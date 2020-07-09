@@ -33,5 +33,6 @@ module.exports.run = async (_client, message, args) => {
 
 }
 module.exports.help = {
-    name: "koala"
+    name: "terminal"
+
 }
