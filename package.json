@@ -1,0 +1,26 @@
+{
+  "name": "lambda rewrite xdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Koscielny",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "common-tags": "^1.8.0",
+    "dateformat": "^3.0.3",
+    "discord.js": "^12.2.0",
+    "gm": "^1.23.1",
+    "jimp": "^0.14.0",
+    "moment": "^2.27.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "superagent": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.13"
+  },
+  "description": "bocik"
+}
