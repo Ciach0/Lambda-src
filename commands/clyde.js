@@ -36,4 +36,5 @@ module.exports.help = {
     usage: ">cmm <TEXT>",
     category: "Image Manipulation",
     enabled: true
-    };
+    
+};
