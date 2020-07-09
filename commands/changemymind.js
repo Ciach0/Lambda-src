@@ -33,4 +33,5 @@ description: "Sends a pictures of the user's input on a \"change my mind\" Sign.
 usage: ">cmm <TEXT>",
 category: "Image Manipulation",
 enabled: true
+
 };
