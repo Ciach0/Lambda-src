@@ -14,4 +14,5 @@ module.exports.help = {
     category:"info",
     description:"Pokazuje ping bota",
     use:"<prefix>ping"
+
 }
