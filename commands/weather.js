@@ -46,5 +46,4 @@ const { formatTime } = require("../functions.js");
 
 module.exports.help = {
     name: "pogoda",
-
 }
